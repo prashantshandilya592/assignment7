@@ -1,0 +1,86 @@
+*{
+    margin: 0px;
+    padding: 0px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+#navbar{
+    background-color: rgb(136, 136, 233);
+   
+    padding-left: 20px;
+    
+}
+.menu{
+    display: inline-block;
+    margin: 20px;
+}
+.menu li{
+    display: inline-block;
+}
+.men{
+    text-decoration: none;
+    color: rgb(36, 36, 36);
+    margin: 5px;
+}
+#wiki{
+    text-decoration: underline;
+    font-weight: bolder;
+}
+#link{
+    background-color: dimgrey;
+}
+#middle{
+    margin: 20px;
+}
+
+.para p{
+    background-color: coral;
+    margin: 4px;
+}
+
+#table1, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#table1{
+    background-color: rgb(176, 138, 196);
+    width: 80%;
+    height: 125px;
+    margin-top: 0px;
+}
+
+#table2, th, td{
+    
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+#table2{
+    background-color: darkgoldenrod;
+    width: 80%;
+    height: 10px;
+}
+
+#table3, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#table3{
+    background-color: cornflowerblue;
+    width: 80%;
+    height: 10px;
+}
+#wiki{
+    background-color: chartreuse;
+}
+#second
+{
+    background-color: chartreuse;
+}
+#third{
+    background-color: crimson;
+}
+#first{
+    background-color: rgb(0, 139, 97);
+}
